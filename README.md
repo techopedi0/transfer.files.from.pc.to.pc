@@ -1,6 +1,6 @@
 # transfer files from pc to pc
 
-[![transfer files from pc to pc](gett-detail.png)](https://github.com/techopedi0/what.is.a.computer/)
+[![transfer files from pc to pc](gett-detail.png)](https://icncomputer.com/transfer-files-from-pc-to-pc/)
 
 Nothing is more exciting than getting a brand new PC. Typically, a new computer means receiving a host of new features, more power, better graphics, and more storage. However, some of that excitement might be tempered if you need to transfer files from your old computer to your new one. Wondering how to transfer files from PC to PC? We’ll help you determine the best way to do it.
 
